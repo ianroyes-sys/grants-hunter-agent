@@ -1,0 +1,10 @@
+{
+  "updated": "2026-10-22T00:00:00Z",
+  "categories": {
+    "grants": {"enabled": true, "label": "Small-business grants", "keywords": ["grant"]},
+    "competitions": {"enabled": true, "label": "Pitch & business-plan competitions", "keywords": ["competition", "pitch", "challenge", "prize"]},
+    "accelerators": {"enabled": true, "label": "Accelerators & pre-accelerators (no-equity or opt-in)", "keywords": ["accelerator", "incubator", "cohort"]},
+    "fellowships": {"enabled": true, "label": "Founder fellowships", "keywords": ["fellowship", "founder program"]},
+    "credits": {"enabled": true, "label": "Free credits & services", "keywords": ["credit", "in-kind", "startup program"]}
+  }
+}

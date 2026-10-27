@@ -1,0 +1,5 @@
+#!/bin/bash
+# The opportunity engine pinned to this repo's grant queue (pipeline/ here).
+# Usage: bin/engine prepare|add|record|search-result|prompt ...   (run from the repo root)
+HERE="$(cd "$(dirname "$0")/.." && pwd)"
+exec python3 "$HERE/engine/opportunity_engine.py" --root "$HERE" --omega "${GRANTS_RUNNER_HOME:-$HERE}" "$@"

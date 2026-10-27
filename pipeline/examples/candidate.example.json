@@ -1,0 +1,13 @@
+{
+  "name": "Example City Pitch Night 2027",
+  "sourceUrl": "https://example.org/pitch-night",
+  "category": "pitch competition",
+  "cycle": "2027",
+  "deadline": "2027-01-31",
+  "eligibility": "For-profit businesses in the county, under 10 employees, operating 6+ months. No application fee. Live pitch on 2027-02-20.",
+  "evidence": [
+    {"url": "https://example.org/pitch-night/rules", "excerpt": "Open to for-profit businesses located in the county with fewer than 10 employees that have operated for at least six months. There is no fee to apply."}
+  ],
+  "openStatus": "open",
+  "effort": "low"
+}
